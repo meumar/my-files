@@ -1,0 +1,36 @@
+{
+    "name": "Got Nft",
+    "description": "Generative arts of Got universe dragons",
+    "image": "https://raw.githubusercontent.com/meumar/my-files/main/syrax.jpeg",
+    "external_url": "https://got-dy4dqk25o-umar-sheiks-projects.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "size",
+        "value": "large"
+      },
+      {
+        "trait_type": "color",
+        "value": "black"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/meumar/my-files/main/syrax.jpeg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image",
+  
+      "collection": {
+        "name": "Got NFT",
+        "family": "Got"
+      },
+      "creators": [
+        {
+          "address": "Bz1vujMhdzyTnhmjaRJRJ9L98KifHkUHZwd3fRTjEEcX",
+          "share": 100
+        }
+      ]
+    }
+  }
