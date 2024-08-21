@@ -1,36 +1,40 @@
 {
-    "name": "Got Nft",
-    "description": "Generative arts of Got universe dragons",
-    "image": "https://raw.githubusercontent.com/meumar/my-files/main/balerion.jpeg",
-    "external_url": "https://got-dy4dqk25o-umar-sheiks-projects.vercel.app/",
-    "attributes": [
+  "name": "Got - Balerion",
+  "description": "Generative arts of Got universe dragons",
+  "image": "https://raw.githubusercontent.com/meumar/my-files/main/balerion.jpeg",
+  "external_url": "https://got-dy4dqk25o-umar-sheiks-projects.vercel.app/",
+  "animation_url": "https://raw.githubusercontent.com/meumar/my-files/main/balerion.jpeg",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "large"
+    },
+    {
+      "trait_type": "color",
+      "value": "black"
+    },
+    {
+      "trait_type": "age",
+      "value": 208
+    }
+  ],
+  "properties": {
+    "files": [
       {
-        "trait_type": "size",
-        "value": "large"
-      },
-      {
-        "trait_type": "color",
-        "value": "black"
+        "uri": "https://raw.githubusercontent.com/meumar/my-files/main/balerion.jpeg",
+        "type": "image/jpeg"
       }
     ],
-    "properties": {
-      "files": [
-        {
-          "uri": "https://raw.githubusercontent.com/meumar/my-files/main/balerion.jpeg",
-          "type": "image/jpeg"
-        }
-      ],
-      "category": "image",
-  
-      "collection": {
-        "name": "Got NFT",
-        "family": "Got"
-      },
-      "creators": [
-        {
-          "address": "Bz1vujMhdzyTnhmjaRJRJ9L98KifHkUHZwd3fRTjEEcX",
-          "share": 100
-        }
-      ]
-    }
+    "category": "image",
+    "collection": {
+      "name": "Got - Balerion",
+      "family": "Got"
+    },
+    "creators": [
+      {
+        "address": "Bz1vujMhdzyTnhmjaRJRJ9L98KifHkUHZwd3fRTjEEcX",
+        "share": 100
+      }
+    ]
   }
+}
